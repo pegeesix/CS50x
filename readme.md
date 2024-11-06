@@ -9,6 +9,6 @@ O CS50x é um curso introdutório de Ciência da Computação oferecido gratuita
 
 ## Cada pasta de problem set contém os exercícios correspondentes a esse conjunto de problemas.
 
-Alguns exercicios ainda não se encontram neste repositório, pois ainda não terminei todo o curso do CS50x. Conforme eu avançar no curso, irei adicionando as soluções dos demais problem sets.
+Alguns exercícios ainda não se encontram neste repositório, pois ainda não terminei todo o curso do CS50x. Conforme eu avançar no curso, irei adicionando as soluções dos demais problem sets.
 
 
